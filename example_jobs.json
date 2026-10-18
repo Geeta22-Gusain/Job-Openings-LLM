@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://example.com/careers/qa-lead",
+    "title": "QA Automation Lead — DEMO ONLY",
+    "company": "Fictional Example Company",
+    "location": "Bengaluru, India",
+    "description": "Demonstration listing, not a real vacancy. 8-12 years of experience. Java, Selenium, functional testing, API testing, Scrum methodologies, Cursor, Claude, resource planning, sprint planning and sprint deliverables."
+  },
+  {
+    "url": "https://example.com/careers/program-manager",
+    "title": "Program Manager — DEMO ONLY",
+    "company": "Fictional Example Company",
+    "location": "Hyderabad, India",
+    "description": "Demonstration listing, not a real vacancy. 10+ years of experience. Scrum methodologies, resource planning, sprint planning and sprint deliverables. Familiarity with Claude and Cursor."
+  }
+]
